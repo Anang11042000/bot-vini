@@ -183,7 +183,7 @@ const help = (prefix) => {
 ┃➢Obs: Este comando pode ser usado se você for um administrador do grupo 
 
 ╲╭━<━━╮╲╲.    OBG POR USAR O :
-╲┃╭╮╭╮┃╲╲.         BOT VINI
+╲┃╭╮╭╮┃╲╲.      BOT VINI
 ┗┫┏━━┓┣┛╲
 ╲┃╰━━╯┃ ╲
 ╲╰┳━━┳╯╲╲
